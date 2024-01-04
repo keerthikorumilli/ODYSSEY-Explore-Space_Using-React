@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KHub_Practice Task 4: Resposive-Webpage
    - **ODYSSEY: Explore Space with a Responsive React-Powered Web Experience**
      
@@ -108,7 +107,3 @@ The webpage exhibits responsive design, adapting seamlessly across devices due t
 <p align="center">
   <img src="https://tse1.mm.bing.net/th?id=OIP.VKiuaCydiCGnkqk-NSqwHgHaFj&pid=Api&P=0&h=180" alt="Image" />
 </p>
-=======
-# ODYSSEY-Explore-Space_Using-React
-ODYSSEY, the ultimate online destination for space enthusiasts. This cutting-edge website seamlessly integrates React technology to provide an efficient and user-friendly interface. Stay informed with our up-to-date news articles, covering the latest breakthroughs in space exploration
->>>>>>> d7666fa0fadbe89dc7ac378d5396735cd350c441
